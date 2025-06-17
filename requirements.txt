@@ -1,0 +1,10 @@
+streamlit
+pandas
+openai
+langchain
+faiss-cpu
+sentence-transformers
+langchain-community
+openpyxl
+tiktoken
+sentence-transformers
