@@ -23,5 +23,4 @@ pip install -r requirements.txt
 - streamlit run app.py
 ### 1. Clone the Repo
 ```bash
-git clone https://github.com/aachalkala/qa_ai_agent.git
-cd qa_ai_agent
+git clone https://github.com/Aachal622/aachal-stewardTitle-Assignment.git
