@@ -24,3 +24,7 @@ pip install -r requirements.txt
 ### 1. Clone the Repo
 ```bash
 git clone https://github.com/Aachal622/aachal-stewardTitle-Assignment.git
+cd aachal-stewardTitle-Assignment
+
+
+
